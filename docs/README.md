@@ -1,7 +1,7 @@
 # Data Analysis Project
 
 # Python Data Analysis Project
-This is a data analysis project written in Python 3, which explores and analyzes a Sales Dataset. The project uses various Python libraries, such as Pandas, Datetime and Matplotlib, to clean the date, to perform the analysis and visualization of the data.
+This is a data analysis project written in Python 3, which explores and analyzes a Sales Dataset. The project uses various Python libraries, such as Pandas, Datetime and Matplotlib, to clean the date, to perform the analysis and visualization of the data. [View the notebook](https://github.com/Harish-coding/Sales-Data-Analysis/blob/master/src/Data%20Analysis%20Code.ipynb)
 
 ## Quicklinks
 + [Findings](#findings)
